@@ -1,0 +1,54 @@
+title: Zig by Example
+description: A hands-on introduction to Zig via annotated examples. Covers the language from Hello World through memory allocation, concurrency, networking, and C interop.
+
+github: boringcollege/zig-by-example
+
+authors:
+  - name: Dariush Abbasi
+    url: https://github.com/dariubs
+
+chapters:
+  - 01-hello-world.md
+  - 02-values.md
+  - 03-variables.md
+  - 04-integers.md
+  - 05-floats.md
+  - 06-strings.md
+  - 07-arrays.md
+  - 08-slices.md
+  - 09-vectors.md
+  - 10-structs.md
+  - 11-enums.md
+  - 12-unions.md
+  - 13-functions.md
+  - 14-blocks-and-statements.md
+  - 15-if-else.md
+  - 16-switch.md
+  - 17-while-loops.md
+  - 18-for-loops.md
+  - 19-defer.md
+  - 20-errors.md
+  - 21-optionals.md
+  - 22-pointers.md
+  - 23-multi-pointers.md
+  - 24-slices-pointers.md
+  - 25-comptime.md
+  - 26-generics.md
+  - 27-memory-allocation.md
+  - 28-arraylist.md
+  - 29-hashmap.md
+  - 30-linked-list.md
+  - 31-testing.md
+  - 32-formatting-and-print.md
+  - 33-io-interface.md
+  - 34-writer-reader.md
+  - 35-file-io.md
+  - 36-threading.md
+  - 37-processes.md
+  - 38-networking.md
+  - 39-json.md
+  - 40-random-numbers.md
+  - 41-sorting.md
+  - 42-math.md
+  - 43-build-system.md
+  - 44-c-interop.md
