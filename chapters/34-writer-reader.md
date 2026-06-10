@@ -73,8 +73,3 @@ In 0.14, every `{}` could quietly dispatch to a custom `format` function,
 so refactors sometimes changed behavior without warning. From 0.15 onward,
 `{f}` is required to call a `format` method — accidental dispatch is now a
 compile error.
-
-Source: [examples/34-writer-reader.zig](../examples/34-writer-reader.zig)
-
----
-[← Previous](33-io-interface.md) | [Index](../README.md) | [Next →](35-file-io.md)

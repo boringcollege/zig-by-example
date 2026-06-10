@@ -19,8 +19,3 @@ pub fn main() void {
     std.debug.print("{s} len={d}\n", .{ span, span.len });
 }
 ```
-
-Source: [examples/24-slices-pointers.zig](../examples/24-slices-pointers.zig)
-
----
-[← Previous](23-multi-pointers.md) | [Index](../README.md) | [Next →](25-comptime.md)

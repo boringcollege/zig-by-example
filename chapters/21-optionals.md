@@ -35,8 +35,3 @@ pub fn main() void {
     std.debug.print("val: {d}\n", .{val});
 }
 ```
-
-Source: [examples/21-optionals.zig](../examples/21-optionals.zig)
-
----
-[← Previous](20-errors.md) | [Index](../README.md) | [Next →](22-pointers.md)

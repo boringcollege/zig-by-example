@@ -46,8 +46,3 @@ pub fn main() void {
 
 `.{...}` is decl-literal syntax — when the target type is already known (from
 an annotation or a return type), you can leave the type name off the right-hand side.
-
-Source: [examples/10-structs.zig](../examples/10-structs.zig)
-
----
-[← Previous](09-vectors.md) | [Index](../README.md) | [Next →](11-enums.md)

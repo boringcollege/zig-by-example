@@ -37,8 +37,3 @@ pub fn main() void {
     std.debug.print("value: {d}\n", .{@intFromEnum(c)}); // 2
 }
 ```
-
-Source: [examples/11-enums.zig](../examples/11-enums.zig)
-
----
-[← Previous](10-structs.md) | [Index](../README.md) | [Next →](12-unions.md)

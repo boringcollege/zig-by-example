@@ -27,8 +27,3 @@ pub fn main() void {
     std.debug.print("minInt(i8)    = {d}\n", .{math.minInt(i8)}); // -128
 }
 ```
-
-Source: [examples/42-math.zig](../examples/42-math.zig)
-
----
-[← Previous](41-sorting.md) | [Index](../README.md) | [Next →](43-build-system.md)

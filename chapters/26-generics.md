@@ -38,8 +38,3 @@ pub fn main() void {
     }
 }
 ```
-
-Source: [examples/26-generics.zig](../examples/26-generics.zig)
-
----
-[← Previous](25-comptime.md) | [Index](../README.md) | [Next →](27-memory-allocation.md)

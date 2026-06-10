@@ -47,8 +47,3 @@ pub fn main() void {
 
 Inside a function that itself returns an error union, you can `try foo()` —
 that bubbles the error up right away. Reach for `catch` when you want to handle it.
-
-Source: [examples/20-errors.zig](../examples/20-errors.zig)
-
----
-[← Previous](19-defer.md) | [Index](../README.md) | [Next →](21-optionals.md)

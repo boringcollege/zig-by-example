@@ -42,8 +42,3 @@ pub fn main() !void {
     std.debug.print("apple = {d}\n", .{smap.get("apple").?});
 }
 ```
-
-Source: [examples/29-hashmap.zig](../examples/29-hashmap.zig)
-
----
-[← Previous](28-arraylist.md) | [Index](../README.md) | [Next →](30-linked-list.md)

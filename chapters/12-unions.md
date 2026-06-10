@@ -42,8 +42,3 @@ pub fn main() void {
     std.debug.print("bare: {d}\n", .{fi.int});
 }
 ```
-
-Source: [examples/12-unions.zig](../examples/12-unions.zig)
-
----
-[← Previous](11-enums.md) | [Index](../README.md) | [Next →](13-functions.md)

@@ -35,8 +35,3 @@ pub fn main() void {
     if (nothing == null) std.debug.print("nothing here\n", .{});
 }
 ```
-
-Source: [examples/15-if-else.zig](../examples/15-if-else.zig)
-
----
-[← Previous](14-blocks-and-statements.md) | [Index](../README.md) | [Next →](16-switch.md)

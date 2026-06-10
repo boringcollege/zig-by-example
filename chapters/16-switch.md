@@ -35,8 +35,3 @@ pub fn main() void {
     std.debug.print("{d}\n", .{val}); // -1
 }
 ```
-
-Source: [examples/16-switch.zig](../examples/16-switch.zig)
-
----
-[← Previous](15-if-else.md) | [Index](../README.md) | [Next →](17-while-loops.md)

@@ -36,8 +36,3 @@ pub fn main() void {
     }
 }
 ```
-
-Source: [examples/17-while-loops.zig](../examples/17-while-loops.zig)
-
----
-[← Previous](16-switch.md) | [Index](../README.md) | [Next →](18-for-loops.md)

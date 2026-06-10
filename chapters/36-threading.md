@@ -55,8 +55,3 @@ pub fn main() !void {
 
 If all you need is a counter or a flag, reach for `std.atomic.Value(T)`
 instead of a mutex — it stays lock-free on every supported platform.
-
-Source: [examples/36-threading.zig](../examples/36-threading.zig)
-
----
-[← Previous](35-file-io.md) | [Index](../README.md) | [Next →](37-processes.md)

@@ -40,8 +40,3 @@ pub fn main() void {
     std.debug.print("\n", .{});
 }
 ```
-
-Source: [examples/18-for-loops.zig](../examples/18-for-loops.zig)
-
----
-[← Previous](17-while-loops.md) | [Index](../README.md) | [Next →](19-defer.md)

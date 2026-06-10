@@ -41,8 +41,3 @@ All 4 tests passed.
 
 `testing.allocator` checks for leaks at the end of each test, so a forgotten
 `deinit` will fail the test instead of silently leaking memory.
-
-Source: [examples/31-testing.zig](../examples/31-testing.zig)
-
----
-[← Previous](30-linked-list.md) | [Index](../README.md) | [Next →](32-formatting-and-print.md)

@@ -35,8 +35,3 @@ pub fn main() void {
     v +%= 0;
 }
 ```
-
-Source: [examples/22-pointers.zig](../examples/22-pointers.zig)
-
----
-[← Previous](21-optionals.md) | [Index](../README.md) | [Next →](23-multi-pointers.md)

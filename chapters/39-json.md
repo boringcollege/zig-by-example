@@ -46,8 +46,3 @@ pub fn main() !void {
 
 `parseFromSlice` returns a `Parsed(T)` that owns an arena allocator for
 the strings inside `T`, so `parsed.deinit()` frees them all in one go.
-
-Source: [examples/39-json.zig](../examples/39-json.zig)
-
----
-[← Previous](38-networking.md) | [Index](../README.md) | [Next →](40-random-numbers.md)

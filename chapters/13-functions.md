@@ -39,8 +39,3 @@ pub fn main() void {
 
 A *function value* (one you hold in a variable) has pointer type `*const fn(...) T`,
 while the *function type* `fn(...) T` is only useful as a comptime constraint.
-
-Source: [examples/13-functions.zig](../examples/13-functions.zig)
-
----
-[← Previous](12-unions.md) | [Index](../README.md) | [Next →](14-blocks-and-statements.md)

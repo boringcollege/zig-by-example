@@ -18,8 +18,3 @@ pub fn main() void {
 ```
 
 Zig won't compile a `var` that's never mutated — reach for `const` in that case.
-
-Source: [examples/03-variables.zig](../examples/03-variables.zig)
-
----
-[← Previous](02-values.md) | [Index](../README.md) | [Next →](04-integers.md)

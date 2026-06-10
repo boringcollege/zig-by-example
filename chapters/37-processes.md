@@ -52,8 +52,3 @@ pub fn main() !void {
 
 In 0.16, the older `std.process.Child.init` / `child.spawn()` pattern gives
 way to the top-level `std.process.spawn(io, opts)`.
-
-Source: [examples/37-processes.zig](../examples/37-processes.zig)
-
----
-[← Previous](36-threading.md) | [Index](../README.md) | [Next →](38-networking.md)

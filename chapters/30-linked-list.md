@@ -43,8 +43,3 @@ pub fn main() void {
 
 This intrusive design lets the same node sit in multiple lists with no
 extra allocations — the trade-off being a slightly less ergonomic API.
-
-Source: [examples/30-linked-list.zig](../examples/30-linked-list.zig)
-
----
-[← Previous](29-hashmap.md) | [Index](../README.md) | [Next →](31-testing.md)

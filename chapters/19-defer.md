@@ -45,8 +45,3 @@ pub fn main() void {
     errdeferDemo(true) catch {};
 }
 ```
-
-Source: [examples/19-defer.zig](../examples/19-defer.zig)
-
----
-[← Previous](18-for-loops.md) | [Index](../README.md) | [Next →](20-errors.md)

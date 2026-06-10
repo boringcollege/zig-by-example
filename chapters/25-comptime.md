@@ -32,8 +32,3 @@ pub fn main() void {
     std.debug.print("n = {d}\n", .{n});
 }
 ```
-
-Source: [examples/25-comptime.zig](../examples/25-comptime.zig)
-
----
-[← Previous](24-slices-pointers.md) | [Index](../README.md) | [Next →](26-generics.md)

@@ -21,8 +21,3 @@ pub fn main() void {
 
 The `{d}` specifier prints a float in decimal form, and `{d:.5}` gives you
 five fractional digits.
-
-Source: [examples/05-floats.zig](../examples/05-floats.zig)
-
----
-[← Previous](04-integers.md) | [Index](../README.md) | [Next →](06-strings.md)

@@ -54,8 +54,3 @@ Common allocators in 0.16:
 - `std.heap.page_allocator` — direct OS pages, no overhead tracking
 - `std.heap.ArenaAllocator` — free everything at once
 - `std.heap.FixedBufferAllocator` — allocates from a stack/global buffer, no OS call
-
-Source: [examples/27-memory-allocation.zig](../examples/27-memory-allocation.zig)
-
----
-[← Previous](26-generics.md) | [Index](../README.md) | [Next →](28-arraylist.md)

@@ -71,8 +71,3 @@ Specifier cheat sheet:
 | `{c}`    | Single ASCII byte                      |
 | `{any}`  | Generic fallback                       |
 | `{f}`    | Call a type's custom `format` method   |
-
-Source: [examples/32-formatting-and-print.zig](../examples/32-formatting-and-print.zig)
-
----
-[← Previous](31-testing.md) | [Index](../README.md) | [Next →](33-io-interface.md)

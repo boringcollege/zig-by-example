@@ -22,8 +22,3 @@ pub fn main() void {
     std.debug.print("{d}\n", .{a + ones});
 }
 ```
-
-Source: [examples/09-vectors.zig](../examples/09-vectors.zig)
-
----
-[← Previous](08-slices.md) | [Index](../README.md) | [Next →](10-structs.md)

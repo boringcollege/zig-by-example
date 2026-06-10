@@ -28,8 +28,3 @@ pub fn main() void {
     std.debug.print("{s}\n", .{poem});
 }
 ```
-
-Source: [examples/06-strings.zig](../examples/06-strings.zig)
-
----
-[← Previous](05-floats.md) | [Index](../README.md) | [Next →](07-arrays.md)

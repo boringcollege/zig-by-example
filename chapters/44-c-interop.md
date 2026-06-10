@@ -46,8 +46,3 @@ exe.linkLibC();
 
 For larger C dependencies, `b.addTranslateC(.{ ... })` translates a whole
 C header set into Zig source you can import directly.
-
-Source: [examples/44-c-interop.zig](../examples/44-c-interop.zig)
-
----
-[← Previous](43-build-system.md) | [Index](../README.md)

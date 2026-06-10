@@ -44,8 +44,3 @@ pub fn main() !void {
 Reach for `io.random` directly when you need cryptographic randomness —
 say, generating session tokens. For everything else, `std.Random.DefaultPrng`
 (Xoshiro256) is the right pick.
-
-Source: [examples/40-random-numbers.zig](../examples/40-random-numbers.zig)
-
----
-[← Previous](39-json.md) | [Index](../README.md) | [Next →](41-sorting.md)

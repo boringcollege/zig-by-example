@@ -91,8 +91,3 @@ const parsed = try std.Io.net.IpAddress.parse("127.0.0.1", 80);
 
 For richer HTTP (streamed bodies, custom headers, redirects), use
 `client.request(method, uri, opts)` and drive the `Request` yourself.
-
-Source: [examples/38-networking.zig](../examples/38-networking.zig)
-
----
-[← Previous](37-processes.md) | [Index](../README.md) | [Next →](39-json.md)

@@ -26,8 +26,3 @@ pub fn main() void {
 
 Reach for `[*]T` when you're talking to C APIs. In pure Zig code, prefer slices
 (`[]T`) — they carry their length around and rule out a whole class of bugs.
-
-Source: [examples/23-multi-pointers.zig](../examples/23-multi-pointers.zig)
-
----
-[← Previous](22-pointers.md) | [Index](../README.md) | [Next →](24-slices-pointers.md)

@@ -25,8 +25,3 @@ pub fn main() void {
     std.debug.print("truncated: {d}\n", .{small});
 }
 ```
-
-Source: [examples/04-integers.zig](../examples/04-integers.zig)
-
----
-[← Previous](03-variables.md) | [Index](../README.md) | [Next →](05-floats.md)

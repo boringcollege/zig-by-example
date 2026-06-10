@@ -61,8 +61,3 @@ By routing every operation through `Io`, the same library code can run:
 - **mocked** (a test backend that records or replays operations)
 
 without changing a single line. The rest of this book sticks with `Threaded`.
-
-Source: [examples/33-io-interface.zig](../examples/33-io-interface.zig)
-
----
-[← Previous](32-formatting-and-print.md) | [Index](../README.md) | [Next →](34-writer-reader.md)

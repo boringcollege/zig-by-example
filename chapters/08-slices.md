@@ -30,8 +30,3 @@ fn sum(nums: []const i32) i32 {
     return total;
 }
 ```
-
-Source: [examples/08-slices.zig](../examples/08-slices.zig)
-
----
-[← Previous](07-arrays.md) | [Index](../README.md) | [Next →](09-vectors.md)

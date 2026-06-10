@@ -38,8 +38,3 @@ pub fn main() !void {
 The unmanaged-by-default change saves a pointer per list and decouples
 construction from allocator choice — really handy when the same list type
 shows up inside many different arenas.
-
-Source: [examples/28-arraylist.zig](../examples/28-arraylist.zig)
-
----
-[← Previous](27-memory-allocation.md) | [Index](../README.md) | [Next →](29-hashmap.md)

@@ -2,6 +2,8 @@
 
 [![Zig 0.16](https://img.shields.io/badge/zig-0.16-orange.svg)](https://ziglang.org/) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
+**Read online: [boring.college/books/zig-by-example](https://boring.college/books/zig-by-example)**
+
 A hands-on introduction to Zig via annotated examples. Zig is a general-purpose, compiled systems language focused on robustness, optimality, and simplicity — no hidden control flow, no hidden allocations, no preprocessor.
 
 Written by [Dariush Abbasi](https://github.com/dariubs) for [Boring College](https://boring.college)
@@ -18,50 +20,50 @@ and has been compiled against the target Zig version.
 
 ## Index
 
-1. [Hello, World](chapters/01-hello-world.md)
-2. [Values](chapters/02-values.md)
-3. [Variables](chapters/03-variables.md)
-4. [Integers](chapters/04-integers.md)
-5. [Floats](chapters/05-floats.md)
-6. [Strings](chapters/06-strings.md)
-7. [Arrays](chapters/07-arrays.md)
-8. [Slices](chapters/08-slices.md)
-9. [Vectors](chapters/09-vectors.md)
-10. [Structs](chapters/10-structs.md)
-11. [Enums](chapters/11-enums.md)
-12. [Unions](chapters/12-unions.md)
-13. [Functions](chapters/13-functions.md)
-14. [Blocks and Statements](chapters/14-blocks-and-statements.md)
-15. [If / Else](chapters/15-if-else.md)
-16. [Switch](chapters/16-switch.md)
-17. [While Loops](chapters/17-while-loops.md)
-18. [For Loops](chapters/18-for-loops.md)
-19. [Defer](chapters/19-defer.md)
-20. [Errors](chapters/20-errors.md)
-21. [Optionals](chapters/21-optionals.md)
-22. [Pointers](chapters/22-pointers.md)
-23. [Multi-Pointers](chapters/23-multi-pointers.md)
-24. [Slices (Pointers)](chapters/24-slices-pointers.md)
-25. [Comptime](chapters/25-comptime.md)
-26. [Generics](chapters/26-generics.md)
-27. [Memory Allocation](chapters/27-memory-allocation.md)
-28. [ArrayList](chapters/28-arraylist.md)
-29. [HashMap](chapters/29-hashmap.md)
-30. [Linked List](chapters/30-linked-list.md)
-31. [Testing](chapters/31-testing.md)
-32. [Formatting and Print](chapters/32-formatting-and-print.md)
-33. [Io Interface](chapters/33-io-interface.md) — *new in 0.16*
-34. [Writer & Reader](chapters/34-writer-reader.md) — *new*
-35. [File I/O](chapters/35-file-io.md)
-36. [Threading & Concurrency](chapters/36-threading.md) — *new*
-37. [Processes](chapters/37-processes.md)
-38. [Networking & HTTP](chapters/38-networking.md) — *new*
-39. [JSON](chapters/39-json.md)
-40. [Random Numbers](chapters/40-random-numbers.md)
-41. [Sorting](chapters/41-sorting.md)
-42. [Math](chapters/42-math.md)
-43. [Build System](chapters/43-build-system.md)
-44. [C Interop](chapters/44-c-interop.md)
+1. [Hello, World](https://boring.college/books/zig-by-example/read?chapter=01-hello-world)
+2. [Values](https://boring.college/books/zig-by-example/read?chapter=02-values)
+3. [Variables](https://boring.college/books/zig-by-example/read?chapter=03-variables)
+4. [Integers](https://boring.college/books/zig-by-example/read?chapter=04-integers)
+5. [Floats](https://boring.college/books/zig-by-example/read?chapter=05-floats)
+6. [Strings](https://boring.college/books/zig-by-example/read?chapter=06-strings)
+7. [Arrays](https://boring.college/books/zig-by-example/read?chapter=07-arrays)
+8. [Slices](https://boring.college/books/zig-by-example/read?chapter=08-slices)
+9. [Vectors](https://boring.college/books/zig-by-example/read?chapter=09-vectors)
+10. [Structs](https://boring.college/books/zig-by-example/read?chapter=10-structs)
+11. [Enums](https://boring.college/books/zig-by-example/read?chapter=11-enums)
+12. [Unions](https://boring.college/books/zig-by-example/read?chapter=12-unions)
+13. [Functions](https://boring.college/books/zig-by-example/read?chapter=13-functions)
+14. [Blocks and Statements](https://boring.college/books/zig-by-example/read?chapter=14-blocks-and-statements)
+15. [If / Else](https://boring.college/books/zig-by-example/read?chapter=15-if-else)
+16. [Switch](https://boring.college/books/zig-by-example/read?chapter=16-switch)
+17. [While Loops](https://boring.college/books/zig-by-example/read?chapter=17-while-loops)
+18. [For Loops](https://boring.college/books/zig-by-example/read?chapter=18-for-loops)
+19. [Defer](https://boring.college/books/zig-by-example/read?chapter=19-defer)
+20. [Errors](https://boring.college/books/zig-by-example/read?chapter=20-errors)
+21. [Optionals](https://boring.college/books/zig-by-example/read?chapter=21-optionals)
+22. [Pointers](https://boring.college/books/zig-by-example/read?chapter=22-pointers)
+23. [Multi-Pointers](https://boring.college/books/zig-by-example/read?chapter=23-multi-pointers)
+24. [Slices (Pointers)](https://boring.college/books/zig-by-example/read?chapter=24-slices-pointers)
+25. [Comptime](https://boring.college/books/zig-by-example/read?chapter=25-comptime)
+26. [Generics](https://boring.college/books/zig-by-example/read?chapter=26-generics)
+27. [Memory Allocation](https://boring.college/books/zig-by-example/read?chapter=27-memory-allocation)
+28. [ArrayList](https://boring.college/books/zig-by-example/read?chapter=28-arraylist)
+29. [HashMap](https://boring.college/books/zig-by-example/read?chapter=29-hashmap)
+30. [Linked List](https://boring.college/books/zig-by-example/read?chapter=30-linked-list)
+31. [Testing](https://boring.college/books/zig-by-example/read?chapter=31-testing)
+32. [Formatting and Print](https://boring.college/books/zig-by-example/read?chapter=32-formatting-and-print)
+33. [Io Interface](https://boring.college/books/zig-by-example/read?chapter=33-io-interface) — *new in 0.16*
+34. [Writer & Reader](https://boring.college/books/zig-by-example/read?chapter=34-writer-reader) — *new*
+35. [File I/O](https://boring.college/books/zig-by-example/read?chapter=35-file-io)
+36. [Threading & Concurrency](https://boring.college/books/zig-by-example/read?chapter=36-threading) — *new*
+37. [Processes](https://boring.college/books/zig-by-example/read?chapter=37-processes)
+38. [Networking & HTTP](https://boring.college/books/zig-by-example/read?chapter=38-networking) — *new*
+39. [JSON](https://boring.college/books/zig-by-example/read?chapter=39-json)
+40. [Random Numbers](https://boring.college/books/zig-by-example/read?chapter=40-random-numbers)
+41. [Sorting](https://boring.college/books/zig-by-example/read?chapter=41-sorting)
+42. [Math](https://boring.college/books/zig-by-example/read?chapter=42-math)
+43. [Build System](https://boring.college/books/zig-by-example/read?chapter=43-build-system)
+44. [C Interop](https://boring.college/books/zig-by-example/read?chapter=44-c-interop)
 
 ---
 

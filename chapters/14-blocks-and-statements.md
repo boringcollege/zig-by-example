@@ -26,8 +26,3 @@ pub fn main() void {
     std.debug.print("result = {d}\n", .{result}); // 10
 }
 ```
-
-Source: [examples/14-blocks-and-statements.zig](../examples/14-blocks-and-statements.zig)
-
----
-[← Previous](13-functions.md) | [Index](../README.md) | [Next →](15-if-else.md)

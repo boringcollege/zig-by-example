@@ -27,8 +27,3 @@ pub fn main() void {
 `const` declares an immutable binding. The type annotation after `:` is
 optional when the compiler can figure it out on its own. For floats, use `{d}`
 to force decimal formatting — the bare `{}` may pick something else.
-
-Source: [examples/02-values.zig](../examples/02-values.zig)
-
----
-[← Previous](01-hello-world.md) | [Index](../README.md) | [Next →](03-variables.md)

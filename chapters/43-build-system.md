@@ -58,8 +58,3 @@ $ zig build -Dtarget=aarch64-linux
 $ zig build -Dtarget=x86_64-windows
 $ zig build -Dtarget=wasm32-freestanding
 ```
-
-Source: [examples/43-build-system.zig](../examples/43-build-system.zig)
-
----
-[← Previous](42-math.md) | [Index](../README.md) | [Next →](44-c-interop.md)

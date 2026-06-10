@@ -29,8 +29,3 @@ pub fn main() void {
     std.debug.print("{d}\n", .{matrix[1][2]});
 }
 ```
-
-Source: [examples/07-arrays.zig](../examples/07-arrays.zig)
-
----
-[← Previous](06-strings.md) | [Index](../README.md) | [Next →](08-slices.md)

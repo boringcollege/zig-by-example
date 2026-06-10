@@ -19,8 +19,3 @@ no buffer and no Io instance. For stdout you'll wire up a `Writer` (see
 $ zig run examples/01-hello-world.zig
 Hello, World!
 ```
-
-Source: [examples/01-hello-world.zig](../examples/01-hello-world.zig)
-
----
-[Index](../README.md) | [Next →](02-values.md)

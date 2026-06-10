@@ -74,8 +74,3 @@ A few notable shifts from older Zig:
   `file.reader(io, &buf)` / `file.writer(io, &buf)`
 - `file.seekFromEnd` is gone — use positional `read`/`write` via
   `readPositional` / `writePositionalAll`
-
-Source: [examples/35-file-io.zig](../examples/35-file-io.zig)
-
----
-[← Previous](34-writer-reader.md) | [Index](../README.md) | [Next →](36-threading.md)

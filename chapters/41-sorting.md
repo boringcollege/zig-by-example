@@ -43,8 +43,3 @@ pub fn main() void {
 In 0.16, `std.sort.binarySearch` takes `(T, slice, key, orderFn)` — the
 context argument is gone. If you need extra data, use a struct method or
 capture state in a type generic over the context.
-
-Source: [examples/41-sorting.zig](../examples/41-sorting.zig)
-
----
-[← Previous](40-random-numbers.md) | [Index](../README.md) | [Next →](42-math.md)
